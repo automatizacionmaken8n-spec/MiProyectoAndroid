@@ -1,10 +1,2 @@
-groovy
-pluginManagement {
-    repositories {
-        google()
-        mavenCentral()
-        gradlePluginPortal()
-    }
-}
-rootProject.name = "MiProyectoAndroid"
+rootProject.name = 'MiProyectoAndroid'
 include ':app'
