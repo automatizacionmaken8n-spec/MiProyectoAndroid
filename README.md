@@ -1,1 +1,0 @@
-Mi segundo proyecto Android
